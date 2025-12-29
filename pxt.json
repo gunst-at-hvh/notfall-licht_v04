@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "v1": "*",
-        "lichtsensor-events": "github:gunst-at-hvh/pxt-lichtsensor-events#256eb7981a1231949cc86df81cd1a8d90c0ddb6d"
+        "lichtsensor-events": "github:gunst-at-hvh/pxt-lichtsensor-events#1fea415ea0609ad512790bac56330bf20c8f488c"
     },
     "files": [
         "main.blocks",

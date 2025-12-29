@@ -1,0 +1,25 @@
+{
+    "name": "Notfall-Licht_v04",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v1": "*",
+        "lichtsensor-events": "github:gunst-at-hvh/pxt-lichtsensor-events#256eb7981a1231949cc86df81cd1a8d90c0ddb6d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.11",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
